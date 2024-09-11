@@ -20,7 +20,7 @@ function Nav() {
   };
 
   return (
-    <div className='header'>
+    <div className='header bg-gray-900 text-white'>
       <div className="logo">
         <h1>S-High</h1>
       </div>
