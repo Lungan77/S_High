@@ -13,9 +13,10 @@ body {
 }
 
 .header {
-
+  margin: 0;
   position: absolute;
   width: 100%;
+  opacity: 0.9;
 }
 
 .head_b{
