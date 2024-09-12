@@ -15,6 +15,9 @@ function About() {
           With a focus on global exposure, extracurricular activities, and cutting-edge technology, we prepare students not only for academic success but for life beyond the classroom.
         </p>
       </div>
+      <div className="read_more bg-gray-100 hover:bg-gray-500">
+        <button className="hover:text-gray-100" type="submit">Read More..</button>
+      </div>
     </header>
   )
 }
