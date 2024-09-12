@@ -1,5 +1,3 @@
-// ProgramsCurriculum.jsx
-
 import Image from 'next/image'
 
 const programs = [

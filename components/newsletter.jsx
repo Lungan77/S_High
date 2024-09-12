@@ -1,6 +1,4 @@
-
 import { CalendarDaysIcon, HandRaisedIcon } from '@heroicons/react/24/outline'
-import { BriefcaseIcon, UserGroupIcon, GlobeAltIcon, PhoneIcon } from '@heroicons/react/24/outline';
 
 export default function Newsletter() {
   return (
