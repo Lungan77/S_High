@@ -50,11 +50,11 @@ export default function ProgramsCurriculum() {
           {programs.map((program) => (
             <div key={program.name} className="bg-white p-6 rounded-lg shadow-md flex flex-col items-center">
               <div className="w-full mb-4">
-                <Image 
-                  src={program.imageSrc} 
-                  alt={program.alt} 
-                  width={300} 
-                  height={200} 
+                <Image
+                  src={program.imageSrc}
+                  alt={program.alt}
+                  width={300}
+                  height={200}
                   className="object-cover rounded-lg"
                 />
               </div>
