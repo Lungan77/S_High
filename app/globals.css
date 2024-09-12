@@ -13,13 +13,18 @@ body {
 }
 
 .header {
-  padding: 20px;
-  display: flex;
-  justify-content: space-between;
+
   position: absolute;
   width: 100%;
 }
 
+.head_b{
+  padding: 20px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 .logo {
   text-transform: uppercase;
   font-weight: 600;
